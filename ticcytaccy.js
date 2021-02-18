@@ -1,3 +1,8 @@
+//Anya Spector
+//Feb 18, 2021
+//Tic tac toe in console
+
+
 //this is stuff so we can write in the console
 const readline = require('readline');
 const rl = readline.createInterface({
